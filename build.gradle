@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+    id 'scala'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.apache.spark:spark-core_2.10:1.6.1'
+    compile 'org.scala-lang:scala-library:2.11.8'
+}
+

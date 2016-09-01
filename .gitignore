@@ -1,0 +1,55 @@
+*.class
+*.log
+
+# Git
+*.orig
+
+# Archives
+*.jar
+*.ear
+*.war
+*.7z
+*.tar
+*.tgz
+*.tar.gz
+*.zip
+
+bin/
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea/**
+*.iml
+.project
+.classpath
+.cache-tests
+.cache-main
+.settings
+
+hs_err_pid*
+
+# Gradle
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Ruby
+Gemfile.lock
+
+# Spark Hive
+metastore_db/
+reports/profile
