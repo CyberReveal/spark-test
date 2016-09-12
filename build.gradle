@@ -9,6 +9,6 @@ repositories {
 
 dependencies {
     compile 'org.apache.spark:spark-core_2.10:1.6.1'
-    compile 'org.scala-lang:scala-library:2.11.8'
+    compile 'org.scala-lang:scala-library:2.10.6'
 }
 

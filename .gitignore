@@ -46,6 +46,7 @@ build/
 gradle-app.setting
 !gradle-wrapper.jar
 .gradletasknamecache
+gradle.properties
 
 # Ruby
 Gemfile.lock

@@ -15,9 +15,9 @@ import scala.Tuple2;
 import scala.Tuple3;
 
 /**
- * Class: Summarise
+ * Class: JavaSummarise
  */
-public final class Summarise {
+public final class JavaSummarise {
 
     public static class Stats implements Serializable {
 
